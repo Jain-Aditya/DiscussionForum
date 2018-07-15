@@ -1,9 +1,9 @@
 # DiscussionForum
 Packages Required:
-install python 3
-install django
-install mysql
-install mysql-client
+1. install python 3
+2. install django
+3. install mysql
+4. install mysql-client
 
 How to setup locally:
 1. Set database password
